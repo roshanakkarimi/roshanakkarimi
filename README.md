@@ -15,7 +15,6 @@ I am a Junior Software Engineer with solid programming skills in Python and back
 - **Python**
 - **C**
 - **C#**
-- **HTML/CSS**
 
 ### Frameworks and Tools
 - **Django**
