@@ -5,7 +5,7 @@
 
 ## 👋 Hello, I'm Roshanak!
 
-I am a Junior Software Engineer with solid programming skills in Python and backend development experience in data engineering and machine learning. I thrive on solving complex problems and collaborating with cross-functional teams to deliver high-quality solutions. Currently, I am pursuing my MSc in Computer Engineering with a focus on High Performance and Big Data at the University of Padova, Italy.
+I am a Software Engineer with solid programming skills in Python and backend development experience in data engineering and machine learning. I thrive on solving complex problems and collaborating with cross-functional teams to deliver high-quality solutions. Currently, I am pursuing my MSc in Computer Engineering with a focus on High Performance and Big Data at the University of Padova, Italy.
 
 ---
 
@@ -41,7 +41,7 @@ I am a Junior Software Engineer with solid programming skills in Python and back
 
 ### Languages
 - **English**: C2 (TOEFL iBT 106)
-- **Italian**: A1
+- **Italian**: A2
 - **Persian**: Fluent
 
 ---
